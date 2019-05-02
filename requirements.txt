@@ -1,0 +1,6 @@
+pandas
+sympy
+numpy
+matplotlib
+future
+python-csv
